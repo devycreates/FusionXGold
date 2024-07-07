@@ -1,5 +1,6 @@
 # FusionXGold
-![image](https://github.com/devycreates/FusionXGold/assets/129235434/e6d67a53-d58d-4f4f-a94c-91f2fe7f4903)
+![Untitled](https://github.com/devycreates/FusionXGold/assets/129235434/c4a92276-4ee9-43b8-b425-3c599ad56721)
+
 
 
 Welcome to the **FusionXGold** GitHub repository! This project is dedicated to the collaborative development of the next-generation FusionXGold. We value and appreciate your contributions to help us enhance and optimize our project.
