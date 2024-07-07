@@ -1,5 +1,7 @@
 # FusionXGold
-https://cdn.discordapp.com/attachments/1204239112693874759/1259222474793553960/Webp.webp?ex=668ae5d1&is=66899451&hm=e196f5e2a38a10f07bcf6081fad9ec37ac4e600de787ca8f083b8b0bb4e2f778&
+![image](https://github.com/devycreates/FusionXGold/assets/129235434/e6d67a53-d58d-4f4f-a94c-91f2fe7f4903)
+
+
 Welcome to the **FusionXGold** GitHub repository! This project is dedicated to the collaborative development of the next-generation FusionXGold. We value and appreciate your contributions to help us enhance and optimize our project.
 
 ## 🚀 How to Contribute
