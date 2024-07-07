@@ -1,6 +1,6 @@
 # FusionXGold
 
-Welcome to the **FusionXGold** GitHub repository! This project is dedicated to the collaborative development of the next-generation PromptPlus. We value and appreciate your contributions to help us enhance and optimize our project.
+Welcome to the **FusionXGold** GitHub repository! This project is dedicated to the collaborative development of the next-generation FusionXGold. We value and appreciate your contributions to help us enhance and optimize our project.
 
 ## 🚀 How to Contribute
 
