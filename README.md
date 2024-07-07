@@ -1,5 +1,5 @@
 # FusionXGold
-
+https://cdn.discordapp.com/attachments/1204239112693874759/1259222474793553960/Webp.webp?ex=668ae5d1&is=66899451&hm=e196f5e2a38a10f07bcf6081fad9ec37ac4e600de787ca8f083b8b0bb4e2f778&
 Welcome to the **FusionXGold** GitHub repository! This project is dedicated to the collaborative development of the next-generation FusionXGold. We value and appreciate your contributions to help us enhance and optimize our project.
 
 ## 🚀 How to Contribute
